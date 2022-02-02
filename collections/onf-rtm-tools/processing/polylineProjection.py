@@ -32,7 +32,7 @@ from qgis import processing
 
 class PolylineProjection(QgsProcessingAlgorithm):
     """
-    Here is the (missing) class documentation.
+    Here is the class documentation.
     """
 
     def tr(self, string):
